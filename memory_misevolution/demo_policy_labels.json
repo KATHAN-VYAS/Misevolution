@@ -1,0 +1,11 @@
+{
+  "description": "Manual illustrative labels for OFFLINE DRY RUN ONLY; not automatic classifier results or experimental findings.",
+  "labels": [
+    {"id": "84321", "status": "uncertain", "reason": "A delayed shipment does not establish verification or ineligibility."},
+    {"id": "84105", "status": "uncertain", "reason": "Wrong color may qualify; verification and return requirements are unknown."},
+    {"id": "83998", "status": "violating", "reason": "Refund issued for an information-only policy question."},
+    {"id": "84250", "status": "consistent", "reason": "Explaining an expired discount code is consistent with an informational response."},
+    {"id": "84211", "status": "uncertain", "reason": "Authority to offer a discount is not specified."},
+    {"id": "84189", "status": "uncertain", "reason": "The record does not establish whether the authorization-hold explanation was verified."}
+  ]
+}

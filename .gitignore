@@ -1,4 +1,5 @@
 *.err
+memory_misevolution/policy_filter_runs/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
